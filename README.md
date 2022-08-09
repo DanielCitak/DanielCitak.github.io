@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+Flex-box challenge
 
-You can use the [editor on GitHub](https://github.com/DanielCitak/DanielCitak.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+this challenge from Odin Project
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+the owners of the pictures I used:
 
-### Markdown
+frog image owner: https://pixabay.com/users/couleur-1195798/ | Couleur
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+fox artic image owner: https://pixabay.com/users/12019-12019/?tab=most-relevant | inactive acaound I cant see his/her nickname
 
-```markdown
-Syntax highlighted code block
+red fox image owner: https://pixabay.com/users/12019-12019/?tab=most-relevant | inactive acaound I cant see his/her nickname
 
-# Header 1
-## Header 2
-### Header 3
+white bird image owner :https://pixabay.com/users/cocoparisienne-127419/ | cocoparisienne
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DanielCitak/DanielCitak.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+fish image owner: https://pixabay.com/users/cocoparisienne-127419/ | cocoparisienne
